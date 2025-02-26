@@ -1,2 +1,6 @@
 # LTCHalving
-LTC Halving!
+LTC Halving Simulator.
+
+You don't have enough LTC...
+
+Send Tips : LRdWyKWSoWKjcQyvYMv4vzUqVeNueiYFid
