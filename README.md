@@ -1,0 +1,2 @@
+# LTCHalving
+LTC Halving!
